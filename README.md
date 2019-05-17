@@ -4,6 +4,6 @@
 #### Thesis 
 - Thesis: [Estimation of number of spontaneous emissions in a two level atom beassuring stimulated emission in an optical cavity](https://github.com/gpreisser/Thesis_Project/blob/master/thesis.pdf)
 #### Dependencies
-- Anaconda 2 with Julia 1.0.0
+- Anaconda 2 with Julia 1.1.0
 - PyPlot
 - QuantumOptics
