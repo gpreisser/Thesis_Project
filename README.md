@@ -1,2 +1,3 @@
 ##### **Estimation of number of spontaneous emissions in a two level atom meassuring stimulated emission in an optical cavity**
 ##### **Abstract** 
+> Having a driven Jaynes-Cumming model with losses we estimate the number of spontaneous emissions in a two level atom by measuring stimulated emission in an optical cavity. We achieve this by doing a large number of quantum trajectories in which, keeping track of the number of spontaneous emissions and cavity emissions, we manage to get Poisson distributions that relate the probability of obtaining a given number of spontaneous emissions for a fixed number of cavity emissions. Finally we studied the correlations between the number of spontaneous and cavity emissions for a fixed time.
