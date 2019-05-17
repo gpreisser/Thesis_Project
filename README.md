@@ -10,3 +10,5 @@
 - QuantumOptics
 #### Jupyter Notebook
 A Jupyter Notebook (Julia 1.1.0 Kernel) is added to illustrate the workflow. 
+- There is a script *Probability Distributions.ypynb* in which there is the code to obtain the probability distributions to obtain certain number of spontaneous emissions for a fixed number of cavity emissions.
+- There is another script *Data Exploration.ipynb* in which we analyse the data and graph different values related to the mean, standard deviation and variance.
