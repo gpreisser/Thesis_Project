@@ -7,3 +7,5 @@
 - Julia 1.1.0
 - PyPlot
 - QuantumOptics
+#### Jupyter Notebook
+A Jupyter Notebook (Julia 1.1.0 Kernel) is added to illustrate the workflow. 
