@@ -3,7 +3,7 @@
 #### **Abstract** 
 > We consider a driven Jaynes-Cummings system under weak coupling, which interacts with the environment through emissions from the atom and emissions that leak through one of the lateral cavity mirrors.  We fix the parameters of the model in order to stablish a dynamic in which the number of photons in the leaky cavity remain constant and, using quantum trajectory theory, we estimate the number of spontaneous emissions in the two-level atom – which will be measured from the upper side of the cavity – by measuring emissions that leak through one of the semi-transparent cavity mirrors. Studying the system further we find that the cavity generates a correlation between the emissions from the two sources.
 #### Thesis 
-- [Estimation of number of spontaneous emissions in a two level atom meassuring stimulated emission in an optical cavity](https://github.com/gpreisser/Thesis_Project/blob/master/Thesis/thesis.pdf)
+- [Estimation of number of spontaneous emissions in a two level atom meassuring stimulated emission in an optical cavity](https://github.com/gpreisser/Thesis_Project/blob/master/Thesis/tesis6.pdf)
 #### Dependencies
 - Julia 1.1.0
 - PyPlot
